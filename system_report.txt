@@ -1,0 +1,8 @@
+Secure Network Asset Inventory Report
+Generated: 2026-09-24 20:51:44.636885
+
+Hostname: kali
+Local IP: 127.0.1.1
+MAC Address: 08:00:27:54:68:93
+Operating System: Linux-7.1.5+kali-amd64-x86_64-with-glibc2.43
+Network Interfaces: eth0, lo
